@@ -49,7 +49,7 @@
 <br>
 [<b>Лекторий по SRE</b>](https://edu.tbank.ru) | Tinkoff | Автор: Дмитрий Масленников
 <br>
-[<b>DevOps-инженер</b>](https://lms.edupro.rt.ru/mod/page/view.php?id=3814) | Rostelecom / BASIS | Автор: Александр Крылов
+[<b>DevOps-инженер</b>](https://lms.edupro.rt.ru/mod/page/view.php?id=3814) | Rostelecom / BASIS | Автор: Филипп Игнатенко, Александр Крылов
 
 ---
 ## &&
