@@ -108,3 +108,14 @@
 [<b>Язык программирования Go</b>](https://www.williamspublishing.com/books/978-5-8459-2051-5.html) | Алан А. А. Донован, Брайан У. Керниган
 
 ... и еще десятки других по UNIX, Linux, FreeBSD, C, C++, Rust, PHP, Python, MySQL, PostgreSQL, Oracle, Autodesk Maya, Autodesk 3D Studio Max, Corel Draw, Adobe Photoshop, Adobe Premiere.
+
+---
+## Conferences (RU)
+
+[<b>HighLoad++</b>](https://www.youtube.com/channel/UCwHL6WHUarjGfUM_586me8w)
+
+[<b>Yandex Scale</b>](https://www.youtube.com/@YandexCloudPlatform)
+
+[<b>Golang Conf</b>](https://www.youtube.com/@GolangChannel)
+
+
